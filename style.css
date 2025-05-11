@@ -1,6 +1,6 @@
 body {
   background-color: hsl(185, 75%, 39%);
-  text-color: hsl(227, 10%, 46%);
+  color: hsl(227, 10%, 46%);
   font-family: "Kumbh Sans", sans-serif;
   display: flex;
   align-items: center;
@@ -8,9 +8,6 @@ body {
   align-content: center;
   flex-direction: column;
   height: 100vh;
-  box-sizing: border-box;
-
-  
 }
 
 .container {
